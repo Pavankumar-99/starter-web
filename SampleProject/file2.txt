@@ -2,3 +2,6 @@ File2 in A4
 
 
 Making changes in the same file for conflicts
+
+
+Changes after Rebasing
