@@ -9,6 +9,8 @@ SoME cHANges Required..
 
 No Changes
 
+This text is added after rebasing myfeature to master
+
 ## Purpose
 
 Sample website with plenty of files for demos
